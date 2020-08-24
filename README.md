@@ -1,1 +1,2 @@
 # button_data
+In this challenge we were prompted to create multiple visuals for the belly button cleaning data provided. First we created a bar chart of the top ten bacterial species in volunteers' navel using javascript. Next we created a bubble chart to visualize the relative frequency of all bateria in volunteers' navels. We also were prompted to do a demographic information panel. Then we created a gauge chart as well. The final result is displayed using git hub pages for a functional and interactive filtering visualization of belly button cleaning data.
